@@ -41,10 +41,6 @@ Resultado final:
 * [Vite JS](https://vitejs.dev//) - Facilitar a usabilidade do React
 * [React JS](https://pt-br.reactjs.org/) - O ingrediente principal desse projeto
 
-## 🖇️ Colaborando
-
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
-
 ## 📌 Versão
 
 Nós usamos [Git](https://git-scm.com/) para controle de versão. Para as versões disponíveis realize commits eventuais. 
